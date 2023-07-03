@@ -10,6 +10,20 @@ Tamil-English code-switched, sentiment-annotated corpus  comment posts from YouT
 You can download the dataset from the link below:
 https://huggingface.co/datasets/tamilmixsentiment
 
+# Output: 
+'mokka ya tha iruku trailer antha level ku perusa onnum illa ', 1.0(negative)
+'thala epo vum masss tha ', 0.0
+'i am simbu fans like dhanush acting ', 0.0
+'thala vera level . . luv u so much ', 0.0
+'25 k dislikes ethuku da intha trailerku poi apdi ungalukku entha trailer tha pidikum',1.(negative)
+"mokka ya tha iruku trailer antha level ku perusa onnum illa",1(negative)
+"Haiyooo.. hero roll ku indhe munji sariye waradhu.",1(negative)
+"Marana mass karthi broo ninga vera level", 0.0 
+Haiyooo.. hero roll ku indhe munji sariye waradhu., 1.0 
+Padu mokkai, ean thalayai kooni kondu nikkuthu thalai, 1.0 
+mokka ya tha iruku trailer antha level ku perusa onnum illa, 1.0 
+Vadachennai ku aprom oru come back pa, 0.0 
+
 # Usage
 The model can be used to analyze statements in a variety of ways. For example, it can be used to:
 Classify the youtube Tamil comment statements as positive, negatives
